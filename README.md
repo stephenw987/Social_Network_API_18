@@ -1,12 +1,18 @@
 # Social_Network_API_18
 
 ## Description
-![Screenshot](assets/screenshot.png)
-
-[![A video thumbnail shows the command-line application with a play button overlaying the view.](./Assets/09-thumbnail.png)](https://drive.google.com/file/d/1TyDL1hQ58rLrL_T2EtzGx7Fw472nsMvQ/preview)
-
 
 This application is an API for social network where users canshare their thoughts, react to friends' thoughts, and create a friend list. This application uses Express.js routing, a MongoDB database, and the Mongoose ODM. 
+
+![Screenshot](assets/screenshot1.png)
+![Screenshot](assets/screenshot2.png)
+
+[![video thumbnail](./Assets/thumbnail.png)](https://drive.google.com/file/d/1xXVqzhZ0NM9QBvIxsBdYBulI-z_OHSCx/view)
+
+Video Link: https://drive.google.com/file/d/1xXVqzhZ0NM9QBvIxsBdYBulI-z_OHSCx/view
+
+Repo: https://github.com/stephenw987/Social_Network_API_18.git
+
 
 ## Usage
 
