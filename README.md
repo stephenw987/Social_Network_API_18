@@ -7,7 +7,7 @@ This application is an API for social network where users canshare their thought
 ![Screenshot](assets/screenshot1.png)
 ![Screenshot](assets/screenshot2.png)
 
-[![video thumbnail](./Assets/thumbnail.png)](https://drive.google.com/file/d/1xXVqzhZ0NM9QBvIxsBdYBulI-z_OHSCx/view)
+[![video thumbnail](./Assets/thumbnail.png)](https://drive.google.com/file/d/1p9RObve7KL-nYt0q7JMaw4_TBeakMqmN/view)
 
 Video Link: https://drive.google.com/file/d/1xXVqzhZ0NM9QBvIxsBdYBulI-z_OHSCx/view
 
